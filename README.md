@@ -135,6 +135,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
+## 📢 Updates
+
+Updates Will Be Cominng Its v1.0.0 
+---
+
 ## 📞 Contact
 
 - **GitHub**: [GitHub ](https://github.com/4nuxd)
@@ -150,3 +155,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 🔒 **Stay Ethical, Stay Safe** 🔒
+
