@@ -34,9 +34,10 @@ This tool is intended **only for educational purposes** or **ethical hacking** e
 
 ### Step 1: Download the Script
 
-1. Clone this repository:
+1. Download the Script
+Clone or download the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/keylogger.git
+    git clone https://github.com/4nuxd/keylogger.git
     cd keylogger
     ```
 
