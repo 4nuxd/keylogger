@@ -43,6 +43,9 @@ Name Used(GB) Free(GB) Total(GB)
 C      214.71   140.82    355.53
 E       80.58    17.08     97.66
 
+Logged Keys
+- - - -- - - - - - - 
+
 ```  
 
 ## ⚠️ Disclaimer
