@@ -17,6 +17,34 @@ This is a PowerShell-based **Keylogger** designed for educational purposes only.
 
 ---
 
+## 📋 Log File Sample 
+
+```plaintext
+##::: ##::'#######:::'#######::'########::  
+ ###:: ##:'##.... ##:'##.... ##: ##.... ##:  
+ ####: ##: ##:::: ##: ##:::: ##: ##:::: ##:  
+ ## ## ##: ##:::: ##: ##:::: ##: ########::  
+ ##. ####: ##:::: ##: ##:::: ##: ##.... ##:  
+ ##:. ###: ##:::: ##: ##:::: ##: ##:::: ##:  
+ ##::. ##:. #######::. #######:: ########::  
+..::::..:::.......::::.......:::........:::  
+___________________________________________________________________________
+[INFO] Computer Name: BLIONRIE
+[INFO] Current User: BLIONRIE\maila
+[INFO] IP Address (IPv4): 192.168.**.*
+[INFO] IP Address (IPv6): fe80::9aae:768b:4e35:****** 
+[INFO] CPU: 12th Gen Intel(R) Core(TM) i5-12500H
+[INFO] RAM: 7.69 GB
+[INFO] OS: Microsoft Windows 11 Home Single Language (64-bit)
+[INFO] Storage:
+
+Name Used(GB) Free(GB) Total(GB)
+---- -------- -------- ---------
+C      214.71   140.82    355.53
+E       80.58    17.08     97.66
+
+```  
+
 ## ⚠️ Disclaimer
 
 This tool is intended **only for educational purposes** or **ethical hacking** engagements with explicit permission. **Misuse of this tool may lead to legal consequences**.
