@@ -137,8 +137,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Contact
 
-- **GitHub**: [Your GitHub Profile](https://github.com/4nuxd)
-- **Telegram**: [your.email@example.com](https://t.me/piratexd)
+- **GitHub**: [GitHub ](https://github.com/4nuxd)
+- **Telegram**: [Telegram](https://t.me/piratexd)
 
 ---
 
